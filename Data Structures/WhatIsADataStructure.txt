@@ -1,0 +1,3 @@
+A data structure is a way to organize, store, retrieve, and process data.
+It makes it possible to handle large amounts of data such as databases. 
+They also serve as essential ingredients for creating fast and powerful algorithms.

@@ -1,0 +1,11 @@
+A stack is a linear data structure that strictly follows the Last-In, First-Out (LIFO) principle.
+Elements are added and removed only from one end, called the top.
+The most recently inserted element is the first one to be removed.
+Insertion or 1jdeletion of elements at any position other than the top is not allowed.
+
+Common Procedures include:
+* Push: add an element to the top
+* Pop: remove the top element
+* Peek/top: looking at the top element without removing it.
+
+The stack is implemented in stack.h and demonstrated in stack.cpp.
