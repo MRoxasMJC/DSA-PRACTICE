@@ -1,3 +1,0 @@
-C:/Users/melvi/Dev/projects/cpp-projects/02-linearSearch-BubbleSort/cmake-build-debug/CMakeFiles/main.dir
-C:/Users/melvi/Dev/projects/cpp-projects/02-linearSearch-BubbleSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/melvi/Dev/projects/cpp-projects/02-linearSearch-BubbleSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
