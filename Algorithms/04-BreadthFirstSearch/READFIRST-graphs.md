@@ -20,7 +20,7 @@ Otherwise, an edge is **_undirected_** if the pair $(a, b)$ is not ordered, so $
 
 An edge being directed or undirected depends entirely on the context and how the graph is defined.
 
-All things considered, **graphs** can be a(n)git :  
+All things considered, **graphs** can be a(n):  
 
 * **_directed graph_**, also called a digraph, if all edges in the graph are directed.
 * **_undirected graph_** if all edges in the graph are undirected.
